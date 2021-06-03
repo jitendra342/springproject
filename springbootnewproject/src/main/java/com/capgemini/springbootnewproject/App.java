@@ -19,6 +19,7 @@ public class App
     	SampleFirst.m2();
     	SampleSecond.m3();
     	SampleThird.m3();
+    	SampleFour.m4();
     	
     }
     
