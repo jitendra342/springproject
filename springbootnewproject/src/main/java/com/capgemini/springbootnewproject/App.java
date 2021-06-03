@@ -17,6 +17,7 @@ public class App
     	Sample sample = new Sample();
     	sample.m1();
     	SampleFirst.m2();
+    	SampleSecond.m3();
     	
     }
     
