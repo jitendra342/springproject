@@ -14,6 +14,9 @@ public class App
     {
     	SpringApplication.run(App.class, args);
     	
+    	Sample sample = new Sample();
+    	sample.m1();
+    	
     }
     
 }
