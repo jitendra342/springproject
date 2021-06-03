@@ -18,6 +18,7 @@ public class App
     	sample.m1();
     	SampleFirst.m2();
     	SampleSecond.m3();
+    	SampleThird.m3();
     	
     }
     
