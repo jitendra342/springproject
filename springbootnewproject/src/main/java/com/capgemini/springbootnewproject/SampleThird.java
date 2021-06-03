@@ -6,6 +6,7 @@ public class SampleThird {
 	 
 	 System.out.println("%%%%%%third method$$$$$$$");
 	 System.out.println("%%%%%%third $$$$$$$");
+	 System.out.println("%%%%%%$$$$$$");
 	 
  }
 }
